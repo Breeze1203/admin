@@ -15,7 +15,7 @@
 * Jwt
 * Swagger ui
 
-## 在线访问: www.techkid.to
+## 在线访问: www.techkid.top
 ## 个人博客: www.techkid.top
 ## 主要特性
 
